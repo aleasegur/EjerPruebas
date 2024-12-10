@@ -1,3 +1,5 @@
+package BUCLEScondicionales;
+
 import java.util.Scanner;
 
 /*

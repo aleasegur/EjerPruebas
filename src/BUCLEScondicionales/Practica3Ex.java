@@ -1,5 +1,6 @@
+package BUCLEScondicionales;
+
 import java.util.Scanner;
-import java.util.TreeMap;
 /*
 * Enunciado del ejercicio: "Calculadora de números primos"
 
