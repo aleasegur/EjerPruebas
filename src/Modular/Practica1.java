@@ -42,5 +42,6 @@ public class Practica1 {
         resulTotal=calculateTotal(totalCuenta,resulTip);
         System.out.println("La propina es "+resulTip);
         System.out.println("El total a pagar es "+resulTotal);
+        sc.close();
     }
 }

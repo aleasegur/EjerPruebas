@@ -55,6 +55,6 @@ public class Practica2 {
         System.out.println("Trabajo: "+resultPorcentageTrabajo);
         System.out.println("Ejercicio: "+resultPorcentageEjercicio);
         System.out.println("Ocio: "+resultPorcentageOcio);
-
+        sc.close();
     }
 }
