@@ -61,5 +61,6 @@ public class Practica5 {
         }
         resultVotos=findWinner(votos1,votos2,votos3);
         System.out.println("EL GANADOR ES EL CANDIDATO: "+resultVotos);
+        sc.close();
     }
 }
